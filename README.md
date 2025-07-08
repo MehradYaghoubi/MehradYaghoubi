@@ -1,17 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN76VzWbL32mD/giphy.gif" width="100"/>
-</div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/mehrad-yaghoubi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:mehradyaghoubi96@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
 <h1 align="center">Hi there, I'm Mehrad Yaghoubi 👋</h1>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MehradYaghoubi/count.svg" alt="Visitors Count" />
+</div>
+
+<p align="center">
+  🎓 Currently pursuing my Master's in Artificial Intelligence.
+  <br>
+  💡 Passionate about developing novel solutions in Computer Vision.
+</p>
 
 ---
 
@@ -26,7 +33,12 @@ Throughout my academic and personal journey, I've primarily worked with **Python
 ### 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,ml,ai,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,cs,ml,opencv,pytorch,tensorflow,git,github,vscode" alt="ML, Python, C#, OpenCV, PyTorch, TensorFlow, Git, GitHub, VSCode" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=jupyter,anaconda,mysql,unity,linkedin" alt="Jupyter, Anaconda, MySQL, Unity, LinkedIn" />
+</p>
+<p align="center">
+  *Also proficient in Data Analysis, Image Processing, Neural Networks, Research, and Problem Solving.*
 </p>
 
 ---
@@ -34,39 +46,30 @@ Throughout my academic and personal journey, I've primarily worked with **Python
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehradYaghoubi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="MehradYaghoubi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehradYaghoubi&theme=radical&hide_border=true" alt="MehradYaghoubi's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehradYaghoubi&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=2b69cb&icon_color=2b69cb&text_color=333" alt="MehradYaghoubi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehradYaghoubi&theme=radical&hide_border=true&currstreak_color=2b69cb&ring_color=2b69cb" alt="MehradYaghoubi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradYaghoubi&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=YOUR_REPO_TO_EXCLUDE" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradYaghoubi&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=YOUR_REPO_TO_EXCLUDE&title_color=2b69cb&icon_color=2b69cb&text_color=333" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔬 Featured Projects
 
-* **[PylipExtractor](https://github.com/MehradYaghoubi/pylipextractor)**: This Python project is a tool for extracting lip-related features from videos, currently used in lip-reading research projects.
-* **Lip-Reading Research Project**: I'm currently working on a research project in the field of lip-reading, aiming to develop a new architecture for improved accuracy in this domain. (More details will be published in the future due to confidentiality)
+* **Novel Lip-Reading Research Project**
+    * *Description:* An independent research initiative focusing on developing novel deep learning architectures for enhanced lip-reading accuracy. Currently working on model design, training, and evaluation, with the aim of publishing the findings as an academic paper under academic guidance.
 
----
-
-### 💼 Experience & Achievements
-
-* **Limited C# Programming Language Tutoring**: Experience teaching C# programming language privately.
-* **Mard-e-Ghanoon Android Game**: Achieved a national rank for social issues analysis and business design with this game. This game was never officially released.
-* **Capsule Khan Android Game**: Another Android game that unfortunately remained unfinished and unreleased.
-
+* **[PylipExtractor](https://github.com/MehradYaghoubi/pylipextractor) (Open-Source Python Package)**
+    * *Description:* Developed an open-source Python package for robust lip-feature extraction from video sequences. Designed to provide a versatile and efficient tool for researchers and developers in computer vision and speech processing. This package serves as a foundational component for advanced lip-reading and speech visualization projects.
+  
 ---
 
 ### 🌐 Connect With Me
 
-* **Email**: (Your email is recognizable from your GitHub profile)
-* **LinkedIn**: (Insert your LinkedIn profile link here)
+* **Email**: mehradyaghoubi96@gmail.com
+* **LinkedIn**: https://www.linkedin.com/in/mehrad-yaghoubi
 * **Personal Website**: (Coming Soon... under development)
 
 ---
-
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8IK8Bf6Vp/giphy.gif" width="60"/>
-</div>
