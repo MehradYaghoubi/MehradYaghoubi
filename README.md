@@ -11,7 +11,7 @@
 <h1 align="center">Hi there, I'm Mehrad Yaghoubi 👋</h1>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MehradYaghoubi/count.svg" alt="Visitors Count" />
+  <img src="https://komarev.com/ghpvc/?username=MehradYaghoubi&abbreviated=true" alt="Visitors Count" />
 </div>
 
 <p align="center">
@@ -33,12 +33,9 @@ Throughout my academic and personal journey, I've primarily worked with **Python
 ### 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,ml,opencv,pytorch,tensorflow,git,github,vscode" alt="ML, Python, C#, OpenCV, PyTorch, TensorFlow, Git, GitHub, VSCode" />
+  <img src="https://skillicons.dev/icons?i=py,cs,opencv,pytorch,tensorflow,git,github,vscode" alt="Python, C#, OpenCV, PyTorch, TensorFlow, Git, GitHub, VSCode" />
   <br>
-  <img src="https://skillicons.dev/icons?i=jupyter,anaconda,mysql,unity,linkedin" alt="Jupyter, Anaconda, MySQL, Unity, LinkedIn" />
-</p>
-<p align="center">
-  *Also proficient in Data Analysis, Image Processing, Neural Networks, Research, and Problem Solving.*
+  <img src="https://skillicons.dev/icons?i=jupyter,anaconda,unity,linkedin" alt="Jupyter, Anaconda, Unity, LinkedIn" />
 </p>
 
 ---
@@ -46,12 +43,12 @@ Throughout my academic and personal journey, I've primarily worked with **Python
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehradYaghoubi&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=2b69cb&icon_color=2b69cb&text_color=333" alt="MehradYaghoubi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehradYaghoubi&theme=radical&hide_border=true&currstreak_color=2b69cb&ring_color=2b69cb" alt="MehradYaghoubi's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehradYaghoubi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="MehradYaghoubi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehradYaghoubi&theme=dracula&hide_border=true" alt="MehradYaghoubi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradYaghoubi&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=YOUR_REPO_TO_EXCLUDE&title_color=2b69cb&icon_color=2b69cb&text_color=333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradYaghoubi&layout=compact&theme=dracula&hide_border=true&langs_count=8&exclude_repo=YOUR_REPO_TO_EXCLUDE" alt="Top Languages" />
 </p>
 
 ---
