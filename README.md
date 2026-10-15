@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="3l1LhuEwidOU9JPUYYG5nSVxGF4kEs_ZIF96l9qXRGA" />
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mehrad-yaghoubi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +7,13 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Mehrad Yaghoubi 👋</h1>
+<h1 align="center">مهراد یعقوبی | Mehrad Yaghoubi 👋</h1>
+
+<p align="center">
+  AI researcher in Computer Vision, Visual Speech Recognition (VSR), and lip-reading.
+  <br>
+  <a href="https://github.com/MehradYaghoubi">GitHub: MehradYaghoubi</a>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MehradYaghoubi&abbreviated=true" alt="Visitors Count" />
@@ -66,7 +71,6 @@ Throughout my academic and personal journey, I've primarily worked with **Python
 ### 🌐 Connect With Me
 
 * **Email**: mehradyaghoubi96@gmail.com
-* **LinkedIn**: https://www.linkedin.com/in/mehrad-yaghoubi
-* **Personal Website**: (Coming Soon... under development)
+* **LinkedIn**: [Mehrad Yaghoubi](https://www.linkedin.com/in/mehrad-yaghoubi)
 
 ---
