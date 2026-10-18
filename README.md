@@ -1,76 +1,29 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mehrad-yaghoubi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:mehradyaghoubi96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+# Mehrad Yaghoubi | مهراد یعقوبی
 
-<h1 align="center">مهراد یعقوبی | Mehrad Yaghoubi 👋</h1>
+**AI M.Sc. researcher · Computer Vision · Machine Learning Systems**
 
-<p align="center">
-  AI researcher in Computer Vision, Visual Speech Recognition (VSR), and lip-reading.
-  <br>
-  <a href="https://github.com/MehradYaghoubi">GitHub: MehradYaghoubi</a>
-</p>
+I am completing an M.Sc. in Artificial Intelligence at Islamic Azad University, Karaj, and preparing for my thesis defense. My research centers on visual speech recognition (VSR), lip-reading, knowledge distillation, uncertainty-aware learning, and efficient models.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehradYaghoubi&abbreviated=true" alt="Visitors Count" />
-</div>
+My research uses PyTorch; I also build open-source Python computer-vision tools. Current applied projects include an API-based OCR tool and a retrieval-augmented (RAG) chatbot in development. I am seeking machine-learning engineering opportunities focused on model efficiency, inference, and applied AI, while growing deeper hands-on experience with production model serving.
 
-<p align="center">
-  🎓 Currently pursuing my Master's in Artificial Intelligence.
-  <br>
-  💡 Passionate about developing novel solutions in Computer Vision.
-</p>
+## Selected work
 
----
+- **[PyLipExtractor](https://github.com/MehradYaghoubi/pylipextractor)** — open-source Python package for MediaPipe-based lip-region extraction, with temporal smoothing, optional illumination normalization, and configurable CPU/CUDA video conversion.
+- **[Visual Speech Recognition manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6831426)** — entropy-gated online self-distillation for lightweight lip-reading; preprint, under review at *The Visual Computer* (status as reported in my CV).
+- **[Go decision-making preprint](https://arxiv.org/abs/2607.26946)** — uncertainty-gated, belief-guided decision-making.
+- **API-based OCR** — a text-recognition application built around an external API.
+- **RAG chatbot** — currently in development.
 
-### 👨‍💻 About Me
+## Technical stack
 
-I'm a **Master's student in Artificial Intelligence** at Islamic Azad University, Karaj, Iran. My passion lies in **Computer Vision** and **Machine Learning**, and I'm currently focused on a research paper regarding **lip-reading with novel architectures**.
+Python · PyTorch · OpenCV · MediaPipe · C++ · C# · Unity
 
-Throughout my academic and personal journey, I've primarily worked with **Python** and **C#**. My goal is to leverage my knowledge and skills to develop innovative solutions for real-world challenges.
+**Current focus:** efficient inference and model-serving systems.
 
----
+## Profiles
 
-### 🚀 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,opencv,pytorch,tensorflow,git,github,vscode" alt="Python, C#, OpenCV, PyTorch, TensorFlow, Git, GitHub, VSCode" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=jupyter,anaconda,unity,linkedin" alt="Jupyter, Anaconda, Unity, LinkedIn" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehradYaghoubi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="MehradYaghoubi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehradYaghoubi&theme=dracula&hide_border=true" alt="MehradYaghoubi's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradYaghoubi&layout=compact&theme=dracula&hide_border=true&langs_count=8&exclude_repo=YOUR_REPO_TO_EXCLUDE" alt="Top Languages" />
-</p>
-
----
-
-### 🔬 Featured Projects
-
-* **Novel Lip-Reading Research Project**
-    * *Description:* An independent research initiative focusing on developing novel deep learning architectures for enhanced lip-reading accuracy. Currently working on model design, training, and evaluation, with the aim of publishing the findings as an academic paper under academic guidance.
-
-* **[PylipExtractor](https://github.com/MehradYaghoubi/pylipextractor) (Open-Source Python Package)**
-    * *Description:* Developed an open-source Python package for robust lip-feature extraction from video sequences. Designed to provide a versatile and efficient tool for researchers and developers in computer vision and speech processing. This package serves as a foundational component for advanced lip-reading and speech visualization projects.
-  
----
-
-### 🌐 Connect With Me
-
-* **Email**: mehradyaghoubi96@gmail.com
-* **LinkedIn**: [Mehrad Yaghoubi](https://www.linkedin.com/in/mehrad-yaghoubi)
-
----
+- [Academic profile and public CV](https://mehradyaghoubi.github.io/) · [فارسی](https://mehradyaghoubi.github.io/fa/)
+- [Google Scholar](https://scholar.google.com/citations?user=7X057KcAAAAJ)
+- [ORCID](https://orcid.org/0009-0001-8116-5864)
+- [LinkedIn](https://www.linkedin.com/in/mehrad-yaghoubi)
+- [Email](mailto:mehradyaghoubi96@gmail.com)
