@@ -1,24 +1,27 @@
 # Mehrad Yaghoubi | مهراد یعقوبی
 
-**AI M.Sc. researcher · Computer Vision · Machine Learning Systems**
+**AI Specialist · AI M.Sc. Researcher · Computer Vision · Machine Learning Engineering**
 
-I am completing an M.Sc. in Artificial Intelligence at Islamic Azad University, Karaj, and preparing for my thesis defense. My research centers on visual speech recognition (VSR), lip-reading, knowledge distillation, uncertainty-aware learning, and efficient models.
+I am completing an M.Sc. in Artificial Intelligence at Islamic Azad University, Karaj, and preparing for my thesis defense. My research focuses on visual speech recognition (VSR), lip-reading, knowledge distillation, uncertainty-aware learning, and efficient models.
 
-My research uses PyTorch; I also build open-source Python computer-vision tools. Current applied projects include an API-based OCR tool and a retrieval-augmented (RAG) chatbot in development. I am seeking machine-learning engineering opportunities focused on model efficiency, inference, and applied AI, while growing deeper hands-on experience with production model serving.
+Since August 2026, I have worked as an AI Specialist at Ghasedak Peik Shahr, building AI and web tools for travel services. My work includes a Persian travel-booking chatbot with WordPress integrations for Parsegasht and TaxiRooz, a competitor price-checking bot, an operator training dashboard, and a custom homepage theme for Parsegasht.
 
 ## Selected work
 
 - **[PyLipExtractor](https://github.com/MehradYaghoubi/pylipextractor)** — open-source Python package for MediaPipe-based lip-region extraction, with temporal smoothing, optional illumination normalization, and configurable CPU/CUDA video conversion.
+- **Travel chatbot and web integrations** — Persian-language booking conversations and WordPress integrations for travel services.
+- **Travel-market price checker** — a bot for checking competitor prices.
+- **Parsegasht operator tools** — operator training dashboard and a custom homepage theme.
 - **[Visual Speech Recognition manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6831426)** — entropy-gated online self-distillation for lightweight lip-reading; preprint, under review at *The Visual Computer* (status as reported in my CV).
 - **[Go decision-making preprint](https://arxiv.org/abs/2607.26946)** — uncertainty-gated, belief-guided decision-making.
 - **API-based OCR** — a text-recognition application built around an external API.
-- **RAG chatbot** — currently in development.
+- **RAG chatbot** — my personal retrieval-augmented chatbot is in development.
 
 ## Technical stack
 
-Python · PyTorch · OpenCV · MediaPipe · C++ · C# · Unity
+Python · PyTorch · FastAPI · REST APIs · OpenCV · MediaPipe · WordPress · C++ · C# · Unity
 
-**Current focus:** efficient inference and model-serving systems.
+**Current focus:** efficient inference, model optimization, and applied computer vision.
 
 ## Profiles
 
