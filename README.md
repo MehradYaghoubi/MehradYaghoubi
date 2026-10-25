@@ -53,7 +53,7 @@ I study how compact lip-reading models can learn from stronger models while acco
 
 ## 🛠️ Applied AI
 
-At Ghasedak Peik Shahr, I build AI and web tools for travel services. My work includes a Persian-language booking chatbot and WordPress integrations for Parsegasht and TaxiRooz, a competitor price-checking bot, an operator training dashboard, and a custom homepage theme.
+My applied AI work includes a Persian-language travel-booking chatbot, WordPress integrations, a competitor price-checking bot, an operator training dashboard, and a custom website theme.
 
 I have also built an API-based OCR application. A personal retrieval-augmented generation (RAG) chatbot is in development.
 
