@@ -6,6 +6,11 @@ I am completing an M.Sc. in Artificial Intelligence at Islamic Azad University, 
 
 Since August 2026, I have worked as an AI Specialist at Ghasedak Peik Shahr, building AI and web tools for travel services. My work includes a Persian travel-booking chatbot with WordPress integrations for Parsegasht and TaxiRooz, a competitor price-checking bot, an operator training dashboard, and a custom homepage theme for Parsegasht.
 
+## Open-source projects
+
+- **[PyLipExtractor](https://github.com/MehradYaghoubi/pylipextractor)** — Python package for extracting and stabilizing lip regions from video.
+- **[EGOSD](https://github.com/MehradYaghoubi/EGOSD)** — research implementation and experimental documentation for entropy-gated self-distillation in visual speech recognition.
+
 ## Selected work
 
 - **[PyLipExtractor](https://github.com/MehradYaghoubi/pylipextractor)** — open-source Python package for MediaPipe-based lip-region extraction, with temporal smoothing, optional illumination normalization, and configurable CPU/CUDA video conversion.
