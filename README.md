@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="#-featured-projects">Projects</a> ·
+  <a href="#-open-source-contributions">Contributions</a> ·
   <a href="#-research">Research</a> ·
   <a href="#-applied-ai">Applied AI</a> ·
   <a href="#-toolbox">Toolbox</a> ·
@@ -43,6 +44,16 @@ I enjoy turning research ideas into practical, clearly documented software—fro
     </td>
   </tr>
 </table>
+
+## 🤝 Open-source contributions
+
+### Research & Engineering Router
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/MehradYaghoubi/badge.svg)](https://hub.xerj.org/contributors/MehradYaghoubi)
+
+I created and maintain **Research & Engineering Router**, an open-source skill for evidence selection in coding and research workflows. It helps the primary model focus on relevant files and sources, with optional model-assisted routing.
+
+[Explore the project](https://github.com/MehradYaghoubi/jev-research-engineering) · [XERJ Corpus Hub contributor profile](https://hub.xerj.org/contributors/MehradYaghoubi)
 
 ## 🔬 Research
 
