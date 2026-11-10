@@ -22,9 +22,9 @@
 
 ## 👋 About
 
-I am an **AI Specialist** and M.Sc. researcher in Artificial Intelligence at Islamic Azad University, Karaj. My research focuses on **visual speech recognition (lip reading)**, **knowledge distillation**, **uncertainty-aware learning**, and efficient deep learning.
+I am **Mehrad Yaghoubi (مهراد یعقوبی)**, an **AI Specialist** and M.Sc. researcher in Artificial Intelligence at Islamic Azad University, Karaj. My research focuses on **visual speech recognition (lip reading)**, **knowledge distillation**, **uncertainty-aware learning**, and efficient deep learning.
 
-I enjoy turning research ideas into practical, clearly documented software—from computer vision tools to AI-powered web applications.
+I develop computer vision tools, chatbots and web applications alongside my research. I am seeking a **fully funded PhD** in computer vision, visual speech recognition, efficient deep learning or model optimization.
 
 ## 🚀 Featured projects
 
@@ -70,18 +70,24 @@ I have also built an API-based OCR application. A personal retrieval-augmented g
 
 ## 🧰 Toolbox
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="C%2B%2B" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-</p>
+**AI and vision:** Python · PyTorch (CUDA) · OpenCV · MediaPipe
+
+**Web and tooling:** FastAPI · REST APIs · WordPress · Git · Linux · Docker
+
+**Databases and querying:** SQL · MySQL · PostgreSQL
 
 **Focus areas:** machine learning · visual speech recognition · lip reading · computer vision · video processing · model distillation · efficient inference · REST APIs
+
+## Experience and resumes
+
+- **AI Specialist, Ghasedak Peik Shahr** — two months in 2026. Built a Persian travel chatbot with three WordPress plugins, a competitor price-checking bot, and an operator training dashboard and custom homepage for Parsegasht.
+- **Co-founder, Fidar Technology Fartak** — 1.5 years. A university startup project developing games informed by psychology for crime prevention. The venture was not formally incorporated.
+- **University research activity** — 1.5 years at the Research Center, Islamic Azad University, Karaj.
+- **Software Instructor** — one year at the Faculty of Work and Skills, Islamic Azad University, Karaj.
+- **Programming Instructor** — one year at Net College Institute.
+- **Robotics Instructor** — one year at Mohandesin Bartar Institute.
+
+[Academic CV — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-Academic-CV.pdf?v=skills-20261110) · [Work resume — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume.pdf?v=skills-20261110) · [رزومه کاری فارسی — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume-FA.pdf?v=skills-20261110)
 
 ## 🌍 Connect
 
