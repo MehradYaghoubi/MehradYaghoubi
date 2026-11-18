@@ -59,18 +59,18 @@ I created and maintain **Research & Engineering Router**, an open-source skill f
 
 I study how compact lip-reading models can learn from stronger models while accounting for uncertainty.
 
-- **[Entropy-gated online self-distillation for lightweight lip reading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6831426)** — preprint; under review at *The Visual Computer* (status as reported in my CV).
+- **[Entropy-gated online self-distillation for lightweight lip reading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6831426)** — accepted for publication in *The Visual Computer*; public preprint available.
 - **[Uncertainty-gated, belief-guided decision-making for Go](https://arxiv.org/abs/2607.26946)** — preprint.
 
 ## 🛠️ Applied AI
 
 My applied AI work includes a Persian-language travel-booking chatbot, WordPress integrations, a competitor price-checking bot, an operator training dashboard, and a custom website theme.
 
-I have also built an API-based OCR application. A personal retrieval-augmented generation (RAG) chatbot is in development.
+I have also built an API-based OCR application. I am developing a personal RAG chatbot with Transformer-based language models. My Research & Engineering Router skill supports Agentic AI workflows through relevant code and research evidence selection.
 
 ## 🧰 Toolbox
 
-**AI and vision:** Python · PyTorch (CUDA) · OpenCV · MediaPipe
+**AI and vision:** Python · PyTorch (CUDA) · OpenCV · MediaPipe · Transformers · RAG · Agentic AI
 
 **Web and tooling:** FastAPI · REST APIs · WordPress · Git · Linux · Docker
 
@@ -87,7 +87,7 @@ I have also built an API-based OCR application. A personal retrieval-augmented g
 - **Programming Instructor** — one year at Net College Institute.
 - **Robotics Instructor** — one year at Mohandesin Bartar Institute.
 
-[Academic CV — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-Academic-CV.pdf?v=skills-20261110) · [Work resume — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume.pdf?v=skills-20261110) · [رزومه کاری فارسی — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume-FA.pdf?v=skills-20261110)
+[Academic CV — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-Academic-CV.pdf?v=accepted-20261118) · [Work resume — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume.pdf?v=accepted-20261118) · [رزومه کاری فارسی — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume-FA.pdf?v=accepted-20261118)
 
 ## 🌍 Connect
 
