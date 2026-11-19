@@ -64,7 +64,7 @@ I study how compact lip-reading models can learn from stronger models while acco
 
 ## 🛠️ Applied AI
 
-My applied AI work includes a Persian-language travel-booking chatbot, WordPress integrations, a competitor price-checking bot, an operator training dashboard, and a custom website theme.
+My applied work includes a competitor price checker, an operator training dashboard and a custom WordPress homepage theme for Parsegasht.
 
 I have also built an API-based OCR application. I am developing a personal RAG chatbot with Transformer-based language models. My Research & Engineering Router skill supports Agentic AI workflows through relevant code and research evidence selection.
 
@@ -80,14 +80,14 @@ I have also built an API-based OCR application. I am developing a personal RAG c
 
 ## Experience and resumes
 
-- **AI Specialist, Ghasedak Peik Shahr** — two months in 2026. Built a Persian travel chatbot with three WordPress plugins, a competitor price-checking bot, and an operator training dashboard and custom homepage for Parsegasht.
+- **AI Specialist (project engagement), Ghasedak Peik Shahr** — two months in 2026. Developed a competitor price checker, an operator training dashboard and a custom WordPress homepage theme for Parsegasht.
 - **Co-founder, Fidar Technology Fartak** — 1.5 years. A university startup project developing games informed by psychology for crime prevention. The venture was not formally incorporated.
 - **University research activity** — 1.5 years at the Research Center, Islamic Azad University, Karaj.
 - **Software Instructor** — one year at the Faculty of Work and Skills, Islamic Azad University, Karaj.
 - **Programming Instructor** — one year at Net College Institute.
 - **Robotics Instructor** — one year at Mohandesin Bartar Institute.
 
-[Academic CV — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-Academic-CV.pdf?v=accepted-20261118) · [Work resume — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume.pdf?v=accepted-20261118) · [رزومه کاری فارسی — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume-FA.pdf?v=accepted-20261118)
+[Academic CV — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-Academic-CV.pdf?v=project-engagement-20261119) · [Work resume — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume.pdf?v=project-engagement-20261119) · [رزومه کاری فارسی — PDF](https://mehradyaghoubi.github.io/resumes/Mehrad-Yaghoubi-AI-Engineering-Resume-FA.pdf?v=project-engagement-20261119)
 
 ## 🌍 Connect
 
